@@ -6,7 +6,7 @@ This program utilizies a PriorityQueue to reorder elements from the highest prio
 
 **Airline Boarding**
 
-The following program simulates an airline sales and boarding system. 
+This program simulates an airline sales and boarding system. 
 
 **Print Queue**
 
